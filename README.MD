@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    preview do podcast.
 </p>
 
 <div align="center">
